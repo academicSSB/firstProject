@@ -1,4 +1,8 @@
-/* function clock() {
+/* Still trying to figure out the logic here. I have a simple clock coded here, 
+but I need to figure out how this file reads that a button has been pressed.
+
+
+function clock() {
   const fullDate = new Date();
   var hrs = fullDate.getHours();
   var mins = fullDate.getMinutes();
