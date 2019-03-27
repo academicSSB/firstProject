@@ -1,4 +1,4 @@
-# firstProject
+# timer-js
 Timer that tracks time!
 
 3.27.19
