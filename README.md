@@ -1,5 +1,5 @@
 # timer-js
-Timer that tracks time!
+A timer that tracks time when you press it and allocates the time to certain catagories.
 
 3.27.19
 I haven't been tracking my progress until now. But I really think the 2 things
